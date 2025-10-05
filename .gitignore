@@ -1,0 +1,5 @@
+﻿datamart/
+*.parquet
+__MACOSX/
+.DS_Store
+.ipynb_checkpoints/
